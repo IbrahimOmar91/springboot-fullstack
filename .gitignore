@@ -1,4 +1,5 @@
 HELP.md
+student.sql
 target/
 db-data/
 !.mvn/wrapper/maven-wrapper.jar
